@@ -2,7 +2,7 @@
 
 
 ## Environment
-To accelerate PPR calculations with GPU, it is recommended to install nx-cugraph(https://github.com/rapidsai/cugraph/blob/branch-24.10/python/nx-cugraph/README.md). The implementation for PMCF is under the following development environment:
+To accelerate PPR calculations with GPU, it is recommended to install [nx-cugraph](https://github.com/rapidsai/cugraph/blob/branch-24.10/python/nx-cugraph/README.md). The implementation for PMCF is under the following development environment:
 * python=3.10.8
 * torch=2.1.2+cu118
 * torch-sparse=0.6.18 
