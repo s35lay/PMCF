@@ -1,5 +1,4 @@
-# PMCF: Self-Supervised Learning for Multi-Level Structure-Aware Recommendation
-
+# Attention, Mask, and Recommendation: A Multi-Level Graph Structure-Aware Method
 
 ## Environment
 To accelerate PPR calculations with GPU, it is recommended to install [nx-cugraph](https://github.com/rapidsai/cugraph/blob/branch-24.10/python/nx-cugraph/README.md). The implementation for PMCF is under the following development environment:
